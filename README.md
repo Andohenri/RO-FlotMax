@@ -14,7 +14,7 @@ Ce projet est une application React utilisant **Vite** pour la configuration du 
 ## Installation
 1. **Clonez le dépôt** :
    ```sh
-   git clone https://github.com/votre-utilisateur/RO-FlotMax.git
+   git clone https://github.com/Andohenri/RO-FlotMax.git
    cd RO-FlotMax.git
    ```
 
@@ -52,6 +52,5 @@ Les contributions sont les bienvenues ! Veuillez soumettre une **pull request** 
 Ce projet est sous licence **MIT**. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
 
 ---
-_Remarque : Remplacez "votre-utilisateur" par votre nom d'utilisateur GitHub dans l'URL du dépôt._
 
 
